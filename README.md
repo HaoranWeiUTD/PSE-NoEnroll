@@ -23,6 +23,7 @@ Test-clean set of librispeech has 2620 audios from 40 speakers, with a total dur
 ## [Real-world Scenarios Test Sets](https://github.com/HaoranWeiUTD/PSE-NoEnroll/blob/main/Real-world%20Scenarios%20Test%20Sets.xls)
 Real-world Scenarios Test Sets are collected to test the speech enhancement performance in real world.  
 This test sets have two scenarios, the first is street food review scenario, and the second is commencement speech scenario. Each scenario has 10 audios collected from Youtube.
+Links to these videos are attched here: https://github.com/HaoranWeiUTD/PSE-NoEnroll/blob/main/Real-world%20Scenarios%20Test%20Sets.xls
 
 ### Youtube Street Food Review
 Street food review videos is one of the hot scenarios for Vloggers. 
