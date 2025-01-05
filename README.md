@@ -35,3 +35,10 @@ Then the top 10 videos are collected, the total duration of this dataset is 140 
 Another real-world scenario is recorded public speech. These speeches may not be clear due to cheers and applause from the audience. 
 To simulate this scenario, 10 audios of the most notable commencement speeches of years 2023 & 2024 are collected. 
 Five commencement speeches are selected from each year, and these speeches only have one major speaker.  The total duration of this test set is 201 minutes. 
+
+# License Statement
+This repo utilized codes from 
+## DNSMOS 
+https://github.com/microsoft/DNS-Challenge/blob/master/DNSMOS/DNSMOS/model_v8.onnx
+## Deep Filter Net 
+https://github.com/Rikorose/DeepFilterNet
