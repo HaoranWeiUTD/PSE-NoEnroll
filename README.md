@@ -1,7 +1,7 @@
-# Personalized Speech Enhancement without User Enrollment
+# 1. Personalized Speech Enhancement without User Enrollment
 This repository is for Personalized Speech Enhancement without User Enrollment for Real-world Scenarios
 
-# Project Highlight
+# 2. Project Highlight
 Many speech enhancement (SE) approaches have been proposed to deal with cocktail party problem. 
 By utilizing speaker's enrollment speech,  personalized speech enhancement(PSE) approaches further improve the performance of SE approaches. 
 But PSE approaches require users to record additional clean audio for registration, which can be an redundant works for many real-world scenarios. 
@@ -10,7 +10,7 @@ The proposed approach automatically selects high-quality speech clips to help de
 This paper also collected simulated test sets and real-world scenarios test sets to prove the performance. 
 Experiment result shows the proposed approach outperform the corresponding SE approach for both objective and subjective evaluation metrics.
 
-# Testing Sets
+# 3. Testing Sets
 The testing set for this paper can be divided into 2 sets. 
 The first test set is a simulated sets created from the test-clean part of librispeech dataset and noise datasets, this test set aims to simulate audio/video stocks from a personal device, this set has clean audio as a reference. 
 The second test set is real-word scenario sets which is collected from Youtube, this set contains real-word speech and noise, but does not have clean speech as a reference.
@@ -36,7 +36,9 @@ Another real-world scenario is recorded public speech. These speeches may not be
 To simulate this scenario, 10 audios of the most notable commencement speeches of years 2023 & 2024 are collected. 
 Five commencement speeches are selected from each year, and these speeches only have one major speaker.  The total duration of this test set is 201 minutes. 
 
-# License Statement
+# 4. To Run this Code
+
+# 5. License Statement
 This repo utilized codes from 
 ## DNSMOS 
 https://github.com/microsoft/DNS-Challenge/blob/master/DNSMOS/DNSMOS/model_v8.onnx
